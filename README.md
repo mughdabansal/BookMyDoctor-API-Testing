@@ -60,9 +60,6 @@ GET	/appointments/<id>	View appointments by user
 DELETE	/appointments/<id>	Cancel appointment
 GET	/doctors	List all doctors
 
-📸 Screenshots
-You can add screenshots of Postman tests or the Newman report here.
-
 📚 Learnings
 Practiced REST API design and testing
 
